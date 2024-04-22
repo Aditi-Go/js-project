@@ -65,4 +65,3 @@ console.log(instructor);
     {},
     {},
     {}
-]
